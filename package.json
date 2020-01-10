@@ -1,0 +1,19 @@
+{
+  "name": "Ishu-APITest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --steps",
+    "html-report": "allure serve output",
+    "test2": "echo 'asdf'"
+  },
+  "keywords": [],
+  "author": "Ishwarya Alagesan",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "codeceptjs": "^2.3.6",
+    "codeceptjs-assert": "0.0.4"
+  }
+}
