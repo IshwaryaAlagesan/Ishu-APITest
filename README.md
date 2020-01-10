@@ -13,7 +13,7 @@ RestAPITestingwithCodeceptJSFramework
     1. 'git clone https://github.com/IshwaryaAlagesan/Ishu-APITest.git'
     2. 'npm install'
     3. 'npm test' -- This will run the complete test Suite and provide CLI level output in the screen itself.
-    4. 'npm run html-report' -- This is to generate Allure HTML Report
+    4. 'npm run html-allure-report' -- This is to generate Allure HTML Report
     5. 'npm run test-mocha-report' -- This command is to run the test and generate Mocha simple HTML Report
 
 Please reach me in case of any additional queries or clarifications.
