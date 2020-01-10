@@ -6,7 +6,8 @@
   "scripts": {
     "test": "npx codeceptjs run --steps",
     "html-allure-report": "npx allure serve output/allure",
-    "test-mocha-report": "npx codeceptjs run --reporter mocha-multi"
+    "test-mocha-report": "npx codeceptjs run --reporter mocha-multi",
+    "test2-debug": "npx codeceptjs run --steps --verbose"
   },
   "keywords": [],
   "author": "Ishwarya Alagesan",
